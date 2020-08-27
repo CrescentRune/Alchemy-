@@ -11,6 +11,7 @@
 		362EF12F24F8021600011587 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362EF12E24F8021600011587 /* Constants.swift */; };
 		362EF13224F8034D00011587 /* IngredientCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362EF13024F8034D00011587 /* IngredientCell.swift */; };
 		362EF13324F8034D00011587 /* IngredientCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 362EF13124F8034D00011587 /* IngredientCell.xib */; };
+		362EF13524F80C2800011587 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 362EF13424F80C2800011587 /* README.md */; };
 		3634076324F168B6007DEBD8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3634076224F168B6007DEBD8 /* AppDelegate.swift */; };
 		3634076524F168B6007DEBD8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3634076424F168B6007DEBD8 /* SceneDelegate.swift */; };
 		3634076724F168B6007DEBD8 /* PotionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3634076624F168B6007DEBD8 /* PotionViewController.swift */; };
@@ -26,6 +27,7 @@
 		362EF12E24F8021600011587 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		362EF13024F8034D00011587 /* IngredientCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientCell.swift; sourceTree = "<group>"; };
 		362EF13124F8034D00011587 /* IngredientCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = IngredientCell.xib; sourceTree = "<group>"; };
+		362EF13424F80C2800011587 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3634075F24F168B6007DEBD8 /* Alchemy!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alchemy!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3634076224F168B6007DEBD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3634076424F168B6007DEBD8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 		3634075624F168B6007DEBD8 = {
 			isa = PBXGroup;
 			children = (
+				362EF13424F80C2800011587 /* README.md */,
 				3634076124F168B6007DEBD8 /* Alchemy! */,
 				3634076024F168B6007DEBD8 /* Products */,
 			);
@@ -169,6 +172,7 @@
 			files = (
 				362EF13324F8034D00011587 /* IngredientCell.xib in Resources */,
 				3634077124F168B9007DEBD8 /* LaunchScreen.storyboard in Resources */,
+				362EF13524F80C2800011587 /* README.md in Resources */,
 				3634076E24F168B9007DEBD8 /* Assets.xcassets in Resources */,
 				3634076C24F168B6007DEBD8 /* Main.storyboard in Resources */,
 			);
